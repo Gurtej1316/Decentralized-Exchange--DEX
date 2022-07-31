@@ -1,4 +1,5 @@
 #Requirements
+
 1.Build an exhange with only one asset pair (Eth / Crypto Dev).
 
 2.Your Decentralized Exchange should take a fees of 1% on swaps.
